@@ -12,7 +12,7 @@ controller_present=False
 os.system('cls')
 while master:
     os.system('cls')
-    print("\t \t \t \t \tWelcome to Hill Pheonix - Dover Corporation - Carel EOL Testing \t \t \t \t ")
+    print("\t \t \t \t \tWelcome to Carel EOL Testing \t \t \t \t ")
     print("\t \t \t \t \t***********************************************************\t \t \t \t \t")
     print("\t \t \t \t \t \t \t \t Main Menu \t \t \t \t ")
     print("\t \t \t \t \t***********************************************************\t \t \t \t \t")
